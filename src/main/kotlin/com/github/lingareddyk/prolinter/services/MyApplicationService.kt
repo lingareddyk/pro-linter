@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lingareddyk.prolinter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lingareddyk.prolinter.MyBundle
 
 class MyApplicationService {
 
